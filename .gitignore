@@ -1,0 +1,49 @@
+#JAVA
+# Compiled class file
+*.class
+logs
+
+# Log file
+*.log
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#INTELLIJ IDEA
+# User-specific stuff:
+*/.idea/
+*.iml
+*/out/
+
+#Serenity
+.idea/*
+target/*
+build/*
+*/target/*
+*/target/
+*/build/*
+*/build/
+
+#gradle
+.gradle
+*/.gradle/
+*/build/
+*/history/
+*/bin/
+
+# Eclipse
+.classpath
+.project
+*/.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+*/log/
+
+.gitignore
